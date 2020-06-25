@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1589985569 source:c:\users\wanderley\desktop\cg\tarefa2\image.cpp
+	"Image.h"
+	"stb_image_write.h"
+	"stb_image.h"
+
+1589984998 c:\users\wanderley\desktop\cg\tarefa2\image.h
+	<vector>
+	"Color.h"
+
+1589985063 c:\users\wanderley\desktop\cg\tarefa2\color.h
+	<math.h>
+	"vec.h"
+
+1592491874 c:\users\wanderley\desktop\cg\tarefa2\vec.h
+	<math.h>
+	<complex>
+	<vector>
+	<fstream>
+
+1589985189 c:\users\wanderley\desktop\cg\tarefa2\stb_image_write.h
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1589985111 c:\users\wanderley\desktop\cg\tarefa2\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1591303484 source:c:\users\wanderley\desktop\cg\tarefa2\rasterization.cpp
+	"rasterization.h"
+	"algorithm"
+
+1590931802 c:\users\wanderley\desktop\cg\tarefa2\rasterization.h
+	"vec.h"
+	<array>
+
+1592885066 source:c:\users\wanderley\desktop\cg\tarefa2\main.cpp
+	"Image.h"
+	"tarefa2.h"
+	"rasterization.h"
+	"tarefa3.h"
+	"Primitives.h"
+	"Graphics2D.h"
+	"stdio.h"
+	"stdlib.h"
+	"bezier.h"
+	"matrix.h"
+
+1590932391 c:\users\wanderley\desktop\cg\tarefa2\tarefa2.h
+	"math.h"
+	"Image.h"
+
+1592257318 c:\users\wanderley\desktop\cg\tarefa2\tarefa3.h
+	"Image.h"
+	"Color.h"
+	"matrix.h"
+	"Graphics2D.h"
+
+1592494925 c:\users\wanderley\desktop\cg\tarefa2\primitives.h
+	<iostream>
+	<array>
+	<vector>
+
+1592948333 c:\users\wanderley\desktop\cg\tarefa2\graphics2d.h
+	<vector>
+	"Image.h"
+	"Primitives.h"
+	"rasterization.h"
+	"vec.h"
+	"geometry.h"
+
+1591652439 c:\users\wanderley\desktop\cg\tarefa2\bezier.h
+	"vec.h"
+
+1591882965 c:\users\wanderley\desktop\cg\tarefa2\matrix.h
+	"vec.h"
+
+1592494911 c:\users\wanderley\desktop\cg\tarefa2\geometry.h
+	"vec.h"
+	<array>
+
